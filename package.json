@@ -2,7 +2,7 @@
   "name": "first-graphics-app",
   "version": "0.0.1",
   "dependencies": {
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "jquery": "~3.5.0",
     "leaflet": "^1.4.0",
     "leaflet-minimap": "^3.6.1",
